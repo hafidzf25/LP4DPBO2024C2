@@ -19,3 +19,10 @@ Setelah dimasukkan Motor dan Car pada Garage atau Parkinglot, maka ditampilkan m
 
 ![image](https://github.com/hafidzf25/LP4DPBO2024C2/assets/117885795/0bd40d74-8a01-409d-a659-8fa8ff4f2c71)
 
+Setelah memanggil fungsi display, maka akan muncul output sebagai berikut
+
+![Output1](https://github.com/hafidzf25/LP4DPBO2024C2/assets/117885795/29867736-34d4-4106-8a1b-bc25cdd69015)
+
+![Output2](https://github.com/hafidzf25/LP4DPBO2024C2/assets/117885795/b4290f58-9471-4567-bee7-2b3b36f5a44e)
+
+Pada output diatas terlihat bahwa daftar kendaraan yang berada di tiap Garasi maupun Parking lot
